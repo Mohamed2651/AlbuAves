@@ -1,6 +1,6 @@
 #!/bin/bash
 
-IPAPI="192.168.3.193"
+IPAPI="localhost"
 PORTAPI="9191"
 
 cd php/
